@@ -1,4 +1,4 @@
-# MODELO_TELA
+# GERENCIAMENTO_FRUTAS_CLI
 
 Este repositório contém um projeto em Java que implementa uma classe principal "Main" onde nessa classe contém métodos para criar e apresentar para o usuário uma lista com as opções 'Adicionar uma fruta', 'Listar todas as frutas', 'Modificar uma fruta', 'Remover uma fruta' e 'Sair'.  
 
