@@ -6,11 +6,13 @@ Este repositório contém um projeto em Java que implementa uma classe principal
 
 - Crie uma classe principal chamada "Main" que deve conter o método 'main';
 
-- Implemente o método 'main' contendo os seguintes métodos: para chamar cada um dos métodos da classe "ModeloTela" e exiba o resultado
 
+- Implemente o método 'main' contendo os seguintes métodos: 
 - while (true); 
 - try-catch;
 - switch contendo 5 cases (sendo 1 case para cada opção da lista);
+
+- Utilize o mesmo método 'main' para chamar cada um dos métodos dentro dele e exiba o resultado.
 
 # 📋 Pré-requisitos
 - Java Development Kit (JDK)
@@ -25,7 +27,7 @@ Este repositório contém um projeto em Java que implementa uma classe principal
    - Baixe e siga as instruções de instalação para a IDE escolhida.
 3. Crie e execute o projeto:
    - Abra a IDE e crie um novo projeto Java.
-   - Adicione as classes "Main".
+   - Adicione a classe "Main".
    - Compile e execute o projeto pelo método "main".
    
 # 🛠 Construído com   
